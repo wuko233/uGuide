@@ -1,0 +1,9 @@
+h1 {
+    color: dodgerblue;
+    text-align: center;
+}
+p {color: cyan;}
+a {
+    color: blue;
+    background: rgb(255, 0, 0);
+}
